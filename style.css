@@ -31,3 +31,8 @@ header {
     color: #afb2dc;
 }
 
+.search:focus {
+    outline: none;
+    background-color: #05082c;
+}
+
