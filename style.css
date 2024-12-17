@@ -36,3 +36,8 @@ header {
     background-color: #05082c;
 }
 
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
