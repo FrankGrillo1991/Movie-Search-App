@@ -10,3 +10,10 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+header {
+    background-color: #0615de;
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
