@@ -27,3 +27,7 @@ header {
     font-size: 1rem;
 }
 
+.search::placeholder {
+    color: #afb2dc;
+}
+
