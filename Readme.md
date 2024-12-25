@@ -1,0 +1,1 @@
+Movie Search developed with HTML, CSS & JavaScript
